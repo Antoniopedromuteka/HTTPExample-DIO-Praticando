@@ -10,8 +10,8 @@ import java.time.Duration;
 
 public class getRequest {
 
-    public static final String URL_GET = "https://jsonplaceholder.typicode.com/posts";
-    //public static final String URL_GET = "https://jsonplaceholder.typicode.com/comments";
+    //public static final String URL_GET = "https://jsonplaceholder.typicode.com/posts";
+    public static final String URL_GET = "https://jsonplaceholder.typicode.com/comments";
 
     public static void main(String[] args) throws IOException, InterruptedException{
 
